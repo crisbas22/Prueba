@@ -1,6 +1,7 @@
 <?php
 
-// hola
+// hola que tal
+$var = "cosa";
 
 
 
